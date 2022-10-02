@@ -2,11 +2,11 @@ import React from "react";
 const Header = () => {
   return (
     <div>
-      <div className="navbar bg-primary py-3 px-5">
+      <div className="navbar bg-accent py-3 px-5">
         <div className="flex-1">
           <a
             href="index.html"
-            className="btn btn-ghost normal-case text-info text-xl hover:text-info hover:bg-success"
+            className="btn btn-ghost normal-case text-success text-xl hover:text-info hover:bg-success"
           >
             <img
               className="w-6 mr-1"
@@ -21,7 +21,7 @@ const Header = () => {
             <input
               type="text"
               placeholder="Search"
-              className="input input-bordered text-info"
+              className="input input-bordered text-accent"
             />
           </div>
           {/* Hi */}
@@ -29,7 +29,7 @@ const Header = () => {
             <div className="dropdown dropdown-end">
               <label
                 tabIndex={0}
-                className="btn btn-ghost btn-circle text-info"
+                className="btn btn-ghost btn-circle text-success"
               >
                 <div className="indicator">
                   <svg
