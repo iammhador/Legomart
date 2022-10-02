@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "key": 121201,
+    "title": "Norweign Wood",
+    "description": "Norwegian Wood is a 1987 novel by Japanese author Haruki Murakami. The novel is a nostalgic story of loss and burgeoning sexuality. It is told from the first-person perspective of Toru Watanabe, who looks back on his days as a college student living in Tokyo.",
+    "category": "Books",
+    "price": 180,
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616843770l/17308035._SY475_.jpg"
+  },
+  {
+    "id": 2,
+    "key": 121202,
+    "title": "Heart Bones",
+    "description": "Beyah has had a tough life. With the sudden death of her addict mother, she is left with no choice but to stay with her absentee father for the summer just until she leaves for College. Here she meets Samson, an enigmatic and secretive boy who is so similar to her and yet so different.",
+    "category": "Books",
+    "price": 140,
+    "image": "https://m.media-amazon.com/images/I/51p47seHS5L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 3,
+    "key": 121203,
+    "title": "The Alchemist",
+    "description": "The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller.",
+    "category": "Books",
+    "price": 160,
+    "image": "https://m.media-amazon.com/images/I/51kcX5PpaZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 4,
+    "key": 121204,
+    "title": "Kafka on the Shore",
+    "description": "Kafka on the Shore is a 2002 novel by Japanese author Haruki Murakami. Its 2005 English translation was among The 10 Best Books of 2005 from The New York Times and received the World Fantasy Award for 2006. ",
+    "category": "Books",
+    "price": 220,
+    "image": "https://static-01.daraz.com.bd/p/f3b5a62b8d5e9153e0d089b8140d88c6.jpg"
+  },
+  {
+    "id": 5,
+    "key": 121205,
+    "title": "Ikigai",
+    "description": "INTERNATIONAL BESTSELLER • 1.5 MILLION+ COPIES SOLD WORLDWIDE“Workers looking for more fulfilling positions should start by identifying their ikigai.” ―Business Insider   “One of the unintended—yet positive—consequences of the pandemic is that it is forcing people to reevaluate their jobs, careers, and lives ",
+    "category": "Books",
+    "price": 190,
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/46433111c_215560.jpg"
+  },
+  {
+    "id": 6,
+    "key": 212101,
+    "title": "QKZ DM 10",
+    "description": "Quality optimization of exclusive patent, metal composite vibrating membrance.The ergonomic design, nipple grade silicone ear muffs.Ear and tail pipe connection with oblique angle design, comfortable and easy to wear.It has high quality sound, enjoy your life.A perfect gift for yourself or friend.",
+    "category": "Earphone",
+    "price": 450,
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/46433111c_215560.jpg"
+  },
+  {
+    "id": 7,
+    "key": 212102,
+    "title": "Uiisii HM9",
+    "description": "Built-in Microphone and In-line control, perfect for you to make handsfree calls, play music and change songs. High-quality dynamic 13.5mm speaker makes HD clear sound, with super bass stereo 3D effect.Set of 3 pieces excellent stereo earbud with microphone, surround sound effect with good bass, clear and vivid, allowing you to have a better listening experience.In-ear earbud with ergonomic design make you feel comfortable. Flexible, light weight, snug and secure, and they can be easily threaded through a jacket, bag, or backpack. Easy to Use: This earbuds with microphone is convenient for hands-free calling.",
+    "category": "Earphone",
+    "price": 350,
+    "image": "https://static-01.daraz.com.bd/p/4ca1ee072eef357382ca60df7df1a9cc.jpg"
+  },
+  {
+    "id": 8,
+    "key": 212103,
+    "title": "Remax RM-512",
+    "description": "HD Microphone. Material: TPE. Impedance: 32Ω. Frequency: 20-20k Hz. Cable Length: 1.2m. Volume Control System",
+    "category": "Earphone",
+    "price": 300,
+    "image": "https://kinbenaki.com/6583-large_default/remax-concave-earphone-rm-510.jpg"
+  },
+  {
+    "id": 9,
+    "key": 212104,
+    "title": "QUZ DM10",
+    "description": "Speaker Sensitivity 100±3dB (at 1KHz 1mW) Speaker Frequency Response 20-20K Hz. Microphone Sensitivity -42dB±3dB1kHz, 3V 0dB=1V/pa. Operation Temperature -10 Celsius — 40 Celsius",
+    "category": "Earphone",
+    "price": 400,
+    "image": "http://sc04.alicdn.com/kf/H8b7a13d40f5f4fc6b93af8d680cf8129f.jpg"
+  },
+  {
+    "id": 10,
+    "key": 212105,
+    "title": "AKG",
+    "description": "Built-In DA. Tuned by AKG. Comfortable Design. High Channel Separation.Richer & More Balanced Sound. Undistorted, Studio-Quality Audio. Fabric Cable Prevents Tangled Up In Your Pocket",
+    "category": "Earphone",
+    "price": 1750,
+    "image": "https://static-01.daraz.com.bd/p/8de842e0c01b2ff0b9dd2d418a2af4a0.jpg"
+  },
+  {
+    "id": 11,
+    "key": 313501,
+    "title": "iPhone 14 Pro Max",
+    "description": "The phone comes Apple's new A16 Bionic chipset, 6GB of LPDDR5 RAM, and will available in the following storage variants: 128GB, 256GB, 512GB, and the range-topping 1TB version",
+    "category": "Phone",
+    "price": 144000,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg"
+  },
+  {
+    "id": 12,
+    "key": 313502,
+    "title": "Google Pixel 6 Pro",
+    "description": "The new, larger main sensor captures the most light ever in a Pixel, for finer detail and richer color, plus faster, more accurate Night Sight photos. 4x optical zoom. Pixel 6 Pro includes a telephoto lens with 4x optical zoom. Super Res Zoom lets you zoom up to 20x.",
+    "category": "Phone",
+    "price": 77500,
+    "image": "https://www.imei.info/media/t/gsm-cache/L/9/IewR75-d/google-pixel-6-pro.jpg"
+  },
+  {
+    "id": 13,
+    "key": 313503,
+    "title": "Samsung S22 Ultra",
+    "description": "The Samsung Galaxy S22 Ultra is easily the most powerful and versatile Android phone this side of a foldable. This is the best display we've tested in a phone, and Samsung's cameras are much improved, especially in low light. Plus, the powerful zoom continues to be hard to beat.",
+    "category": "Phone",
+    "price": 115000,
+    "image": "https://fatafatsewa.com/storage/media/4376/Galaxy-S22-Ultra-Dark-Red.jpg"
+  },
+  {
+    "id": 14,
+    "key": 313504,
+    "title": "Nothing Phone",
+    "description": "The phone (1) features a transparent design, similar to that of its other product, the Nothing ear (1). This means that the user can see the internal components of the device, giving something that is considered to be a very distinct and iconic design language of our own. The phone consists of 400 components.",
+    "category": "Phone",
+    "price": 55000,
+    "image": "https://www.gizmochina.com/wp-content/uploads/2022/06/Nothing-phone-1-500x500.jpg"
+  },
+  {
+    "id": 15,
+    "key": 313505,
+    "title": "Xiaomi Mi 11 Ultra",
+    "description": "The Xiaomi Mi 11 Ultra is now unavailable to buy from most retailers. If you are looking for an alternative device, check out our list of the best Android phones you can buy and the best camera phones. The Mi 11 Ultra is Xiaomi's top-spec'd phone for 2021",
+    "category": "Phone",
+    "price": 73500,
+    "image": "https://www.mobiledokan.co/wp-content/uploads/2020/12/Xiaomi-Mi-11-Ultra-Ceramic-Balck.jpg"
+  }
+]
