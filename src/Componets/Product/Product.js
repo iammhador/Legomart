@@ -8,9 +8,7 @@ const Product = () => {
       <br />
       <br />
       <br />
-      <h1 className="text-center text-primary text-3xl">
-        All Product Will Show Here
-      </h1>
+      <h1 className="text-center text-primary text-3xl">Hello</h1>
       <br />
       <br />
       <br />
